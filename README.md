@@ -1,5 +1,16 @@
 # Heuristic Evaluation
 
-1. Adjust and Shuffle dataset
+This project has **two stages**:
 
-2. Run Gherkin Match Pairs aplication using generated dataset from first step => https://gherkin-match-pairs.vercel.app
+1. **Adjust and Shuffle Dataset**
+   Generate the evaluation dataset (JSON) using the tool in
+   `shuffle-and-adjust-dataset/`.
+
+2. **Run Gherkin Match Pairs App**
+   Use the dataset generated in step 1 to perform the evaluation.
+   You can either:
+
+   * Open the deployed app: **[https://gherkin-match-pairs.vercel.app](https://gherkin-match-pairs.vercel.app)**
+   * Or run it locally from the folder `gherkin-match-pairs/`.
+
+Each folder includes its own README with detailed usage instructions.
