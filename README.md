@@ -10,6 +10,6 @@ This project has **two stages**:
    Use the dataset generated in step 1 to perform the evaluation.
    You can either:
    
-   * Or run it locally from the folder `gherkin-match-pairs/`.
+   * Run it locally from the folder `gherkin-match-pairs/`.
 
 Each folder includes its own README with detailed usage instructions.
